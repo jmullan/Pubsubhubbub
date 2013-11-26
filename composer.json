@@ -1,5 +1,5 @@
 {
-    "name": "pubsubhubbub",
+    "name": "jmullan/pubsubhubbub",
     "description": "Pubsubhubbub Publisher and Subscriber",
     "keywords": ["pubsubhubbub", "PuSH"],
     "license": "Apache-2.0",
