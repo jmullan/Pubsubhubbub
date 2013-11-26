@@ -1,0 +1,24 @@
+{
+    "name": "pubsubhubbub",
+    "description": "Pubsubhubbub Publisher and Subscriber",
+    "keywords": ["pubsubhubbub", "PuSH"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Jesse Mullan",
+            "email": "jmullan@visi.com"
+        },
+        {
+            "name": "Josh Fraser",
+            "email": "joshfraz@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Pubsubhubbub\\": "./src/"
+        }
+    }
+}
